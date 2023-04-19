@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet type="text/xsl" href="factura.xsl"?>
+
+
+<facturacion>
+    <anios>
+        <anio_2020>
+            <trimestres>
+                <trimestre_primero>
+                    <pedidos>
+                        <pedido id="1630"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1630</num_pedido>
+                                    <fecha_compra>15/01/2020</fecha_compra>
+                                    <fecha_entrega>18/01/2020</fecha_entrega>
+                                    <total_factura>200</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA ULTRABOOST LIGHT</nombre_producto>
+                                            <referencia>HP9841</referencia>
+                                            <precio>200</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1631"> 
+                            <cliente>
+                                <nombre>Laura</nombre>
+                                <apellidos>Robledo Martín</apellidos>
+                                <telefono>923973818</telefono>
+                                <direccion>
+                                    <calle>Ronda Victoria</calle>
+                                    <ciudad>Zahara de la Sierra</ciudad>
+                                    <codigo_postal>11688</codigo_postal>
+                                    <provincia>Cádiz</provincia>
+                                </direccion> 
+                                <correo_electronico>laura85@robledo.org</correo_electronico>
+                                <fecha_inclusion>22/07/2019</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1631</num_pedido>
+                                    <fecha_compra>15/01/2020</fecha_compra>
+                                    <fecha_entrega>18/01/2020</fecha_entrega>
+                                    <total_factura>320</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA GAZELLE</nombre_producto>
+                                            <referencia>HQ4410</referencia>
+                                            <precio>100</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA ADIDAS BY STELLA MCCARTNEY TRUECASUALS PRINTED</nombre_producto>
+                                            <referencia>HT1102</referencia>
+                                            <precio>220</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1632"> 
+                            <cliente>
+                                <nombre>Matilda</nombre>
+                                <apellidos>Suárez Montes</apellidos>
+                                <telefono>689552141</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28936</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>matildasumo@gmail.com</correo_electronico>
+                                <fecha_inclusion>04/09/2017</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1632</num_pedido>
+                                    <fecha_compra>16/01/2020</fecha_compra>
+                                    <fecha_entrega>19/01/2020</fecha_entrega>
+                                    <total_factura>120</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA SDP 2.0 INSULATED</nombre_producto>
+                                            <referencia>HI0938</referencia>
+                                            <precio>120</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1633"> 
+                            <cliente>
+                                <nombre>Samuel</nombre>
+                                <apellidos>Molina Martínez</apellidos>
+                                <telefono>689556210</telefono>
+                                <direccion>
+                                    <calle>San Juan</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>18050</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>samumolina@gmail.com</correo_electronico>
+                                <fecha_inclusion>14/03/2019</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1633</num_pedido>
+                                    <fecha_compra>17/01/2020</fecha_compra>
+                                    <fecha_entrega>21/01/2020</fecha_entrega>
+                                    <total_factura>32,50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>SUDADERA CUELLO REDONDO ARKD3</nombre_producto>
+                                            <referencia>HD6866</referencia>
+                                            <precio>32,50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1634"> 
+                            <cliente>
+                                <nombre>Sara</nombre>
+                                <apellidos>Betancourt Ruiz</apellidos>
+                                <telefono>640125568</telefono>
+                                <direccion>
+                                    <calle>Almería</calle>
+                                    <ciudad>Arroyomolinos</ciudad>
+                                    <codigo_postal>28939</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>betancourt_sara@gmail.com</correo_electronico>
+                                <fecha_inclusion>15/05/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1634</num_pedido>
+                                    <fecha_compra>25/02/2020</fecha_compra>
+                                    <fecha_entrega>28/02/2020</fecha_entrega>
+                                    <total_factura>150</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>SUDADERA CON CAPUCHA ADICOLOR NEUCLASSICS</nombre_producto>
+                                            <referencia>IB5922</referencia>
+                                            <precio>75</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN ESSENTIALS JOGGER</nombre_producto>
+                                            <referencia>HA3473</referencia>
+                                            <precio>75</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1635"> 
+                           <cliente>
+                                <nombre>Laura</nombre>
+                                <apellidos>Robledo Martín</apellidos>
+                                <telefono>923973818</telefono>
+                                <direccion>
+                                    <calle>Ronda Victoria</calle>
+                                    <ciudad>Zahara de la Sierra</ciudad>
+                                    <codigo_postal>11688</codigo_postal>
+                                    <provincia>Cádiz</provincia>
+                                </direccion> 
+                                <correo_electronico>laura85@robledo.org</correo_electronico>
+                                <fecha_inclusion>22/07/2019</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1635</num_pedido>
+                                    <fecha_compra>01/03/2020</fecha_compra>
+                                    <fecha_entrega>05/03/2020</fecha_entrega>
+                                    <total_factura>110</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>SUJETADOR DEPORTIVO ADIDAS BY STELLA MCCARTNEY TRUEPACE HIGH SUPPORT</nombre_producto>
+                                            <referencia>IA9123</referencia>
+                                            <precio>110</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1636"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1636</num_pedido>
+                                    <fecha_compra>4/03/2020</fecha_compra>
+                                    <fecha_entrega>6/03/2020</fecha_entrega>
+                                    <total_factura>119</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CALCETINES CLÁSICOS MID-CUT</nombre_producto>
+                                            <referencia>FT8529</referencia>
+                                            <precio>13</precio>
+                                            <unidades>2</unidades>
+                                        </producto>
+                                        <producto>
+                                            <nombre_producto>CAMISETA HEAT.RDY HIIT ELEVATED TRAINING</nombre_producto>
+                                            <referencia>HS7457</referencia>
+                                            <precio>60</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                        <producto>
+                                            <nombre_producto>CAMISETA TRAIN ESSENTIALS FEELREADY LOGO TRAINING</nombre_producto>
+                                            <referencia>IB8273</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1637"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1637</num_pedido>
+                                    <fecha_compra>23/03/2020</fecha_compra>
+                                    <fecha_entrega>25/03/2020</fecha_entrega>
+                                    <total_factura>45</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BOLSA DE DEPORTE MEDIANA TIRO LEAGUE</nombre_producto>
+                                            <referencia>IB8650</referencia>
+                                            <precio>45</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1638"> 
+                            <cliente>
+                                <nombre>Matilda</nombre>
+                                <apellidos>Suárez Montes</apellidos>
+                                <telefono>689552141</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28936</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>matildasumo@gmail.com</correo_electronico>
+                                <fecha_inclusion>04/09/2017</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1638</num_pedido>
+                                    <fecha_compra>24/03/2020</fecha_compra>
+                                    <fecha_entrega>27/03/2020</fecha_entrega>
+                                    <total_factura>90</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA PARLEY</nombre_producto>
+                                            <referencia>IC5356</referencia>
+                                            <precio>90</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1639"> 
+                            <cliente>
+                                <nombre>Sara</nombre>
+                                <apellidos>Betancourt Ruiz</apellidos>
+                                <telefono>640125568</telefono>
+                                <direccion>
+                                    <calle>Almería</calle>
+                                    <ciudad>Arroyomolinos</ciudad>
+                                    <codigo_postal>28939</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>betancourt_sara@gmail.com</correo_electronico>
+                                <fecha_inclusion>15/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1639</num_pedido>
+                                    <fecha_compra>28/03/2020</fecha_compra>
+                                    <fecha_entrega>1/04/2020</fecha_entrega>
+                                    <total_factura>75</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA ADICOLOR NEUCLASSICS</nombre_producto>
+                                            <referencia>IB7316</referencia>
+                                            <precio>75</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    </pedidos>
+                </trimestre_primero>
+
+                <trimestre_segundo> 
+                    <pedidos>
+                    
+                        <pedido id="1640"> 
+                            <cliente>
+                                <nombre>Pedro</nombre>
+                                <apellidos>Martín Martín</apellidos>
+                                <telefono>665842511</telefono>
+                                <direccion>
+                                    <calle>Motril</calle>
+                                    <ciudad>Arroyomolinos</ciudad>
+                                    <codigo_postal>28940</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>pedromart@gmail.com</correo_electronico>
+                                <fecha_inclusion>05/06/2019</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1640</num_pedido>
+                                    <fecha_compra>02/04/2020</fecha_compra>
+                                    <fecha_entrega>05/04/2020</fecha_entrega>
+                                    <total_factura>80</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA POSTMOVE</nombre_producto>
+                                            <referencia>H00460</referencia>
+                                            <precio>80</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1641"> 
+                            <cliente>
+                                <nombre>Martina</nombre>
+                                <apellidos>Lucas Luna</apellidos>
+                                <telefono>654221344</telefono>
+                                <direccion>
+                                    <calle>Las matas</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28935</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>lucasluna@gmail.com</correo_electronico>
+                                <fecha_inclusion>07/08/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1641</num_pedido>
+                                    <fecha_compra>05/04/2020</fecha_compra>
+                                    <fecha_entrega>09/04/2020</fecha_entrega>
+                                    <total_factura>110</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BOLSO TOTE ADIDAS BY STELLA MCCARTNEY</nombre_producto>
+                                            <referencia>HY4086</referencia>
+                                            <precio>110</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1642"> 
+                            <cliente>
+                                <nombre>Roberto</nombre>
+                                <apellidos>Robles García</apellidos>
+                                <telefono>632551200</telefono>
+                                <direccion>
+                                    <calle>Lorca</calle>
+                                    <ciudad>Albacete</ciudad>
+                                    <codigo_postal>02005</codigo_postal>
+                                    <provincia>Castilla la Mancha</provincia>
+                                </direccion> 
+                                <correo_electronico>roro@garcia.com</correo_electronico>
+                                <fecha_inclusion>25/03/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1642</num_pedido>
+                                    <fecha_compra>07/04/2020</fecha_compra>
+                                    <fecha_entrega>09/04/2020</fecha_entrega>
+                                    <total_factura>33</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CAMISETA ADICOLOR CLASSICS 3 BANDAS</nombre_producto>
+                                            <referencia>IA4849</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1643"> 
+                            <cliente>
+                                <nombre>Julia</nombre>
+                                <apellidos>Puentes Mateos</apellidos>
+                                <telefono>633021545</telefono>
+                                <direccion>
+                                    <calle>Ibiza</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28050</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>puentes@mateos.com</correo_electronico>
+                                <fecha_inclusion>12/04/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1643</num_pedido>
+                                    <fecha_compra>08/05/2020</fecha_compra>
+                                    <fecha_entrega>11/05/2020</fecha_entrega>
+                                    <total_factura>350</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>FALDA REFINED WOOL Y-3</nombre_producto>
+                                            <referencia>H63041</referencia>
+                                            <precio>350</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1644"> 
+                            <cliente>
+                                <nombre>Jaime</nombre>
+                                <apellidos>Salazar Perez</apellidos>
+                                <telefono>655784422</telefono>
+                                <direccion>
+                                    <calle>Torremolinos</calle>
+                                    <ciudad>Arroyomolinos</ciudad>
+                                    <codigo_postal>28938</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>Jaimesalazar@gmail.com</correo_electronico>
+                                <fecha_inclusion>14/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1644</num_pedido>
+                                    <fecha_compra>22/05/2020</fecha_compra>
+                                    <fecha_entrega>24/05/2020</fecha_entrega>
+                                    <total_factura>70</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>SUDADERA CON CAPUCHA ADICOLOR NEUCLASSICS</nombre_producto>
+                                            <referencia>HS1519</referencia>
+                                            <precio>70</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1645"> 
+                            <cliente>
+                                <nombre>Roberto</nombre>
+                                <apellidos>Robles García</apellidos>
+                                <telefono>632551200</telefono>
+                                <direccion>
+                                    <calle>Lorca</calle>
+                                    <ciudad>Albacete</ciudad>
+                                    <codigo_postal>02005</codigo_postal>
+                                    <provincia>Castilla la Mancha</provincia>
+                                </direccion> 
+                                <correo_electronico>roro@garcia.com</correo_electronico>
+                                <fecha_inclusion>25/03/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1645</num_pedido>
+                                    <fecha_compra>28/05/2020</fecha_compra>
+                                    <fecha_entrega>30/05/2020</fecha_entrega>
+                                    <total_factura>33</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CAMISETA ADICOLOR CLASSICS 3 BANDAS</nombre_producto>
+                                            <referencia>IA4849</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1646"> 
+                            <cliente>
+                                <nombre>Martina</nombre>
+                                <apellidos>Lucas Luna</apellidos>
+                                <telefono>654221344</telefono>
+                                <direccion>
+                                    <calle>Las Matas</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28935</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>lucasluna@gmail.com</correo_electronico>
+                                <fecha_inclusion>07/05/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1646</num_pedido>
+                                    <fecha_compra>01/06/2020</fecha_compra>
+                                    <fecha_entrega>03/06/2020</fecha_entrega>
+                                    <total_factura>110</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BOLSO TOTE ADIDAS BY STELLA MCCARTNEY</nombre_producto>
+                                            <referencia>HY4086</referencia>
+                                            <precio>110</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1647">
+                            <cliente>
+                                <nombre>Martina</nombre>
+                                <apellidos>Lucas Luna</apellidos>
+                                <telefono>654221344</telefono>
+                                <direccion>
+                                    <calle>Las Matas</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28935</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>lucasluna@gmail.com</correo_electronico>
+                                <fecha_inclusion>07/05/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1647</num_pedido>
+                                    <fecha_compra>05/06/2020</fecha_compra>
+                                    <fecha_entrega>09/06/2020</fecha_entrega>
+                                    <total_factura>110</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BOLSO TOTE ADIDAS BY STELLA MCCARTNEY</nombre_producto>
+                                            <referencia>HY4086</referencia>
+                                            <precio>110</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1648"> 
+                            <cliente>
+                                <nombre>Julia</nombre>
+                                <apellidos>Puentes Mateos</apellidos>
+                                <telefono>633021545</telefono>
+                                <direccion>
+                                    <calle>Ibiza</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28050</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>puentes@mateos.com</correo_electronico>
+                                <fecha_inclusion>12/04/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1648</num_pedido>
+                                    <fecha_compra>08/06/2020</fecha_compra>
+                                    <fecha_entrega>11/06/2020</fecha_entrega>
+                                    <total_factura>350</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>FALDA REFINED WOOL Y-3</nombre_producto>
+                                            <referencia>H63041</referencia>
+                                            <precio>350</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1649"> 
+                            <cliente>
+                                <nombre>Roberto</nombre>
+                                <apellidos>Robles García</apellidos>
+                                <telefono>632551200</telefono>
+                                <direccion>
+                                    <calle>Lorca</calle>
+                                    <ciudad>Albacete</ciudad>
+                                    <codigo_postal>02005</codigo_postal>
+                                    <provincia>Castilla la Mancha</provincia>
+                                </direccion> 
+                                <correo_electronico>roro@garcia.com</correo_electronico>
+                                <fecha_inclusion>25/03/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1649</num_pedido>
+                                    <fecha_compra>28/06/2020</fecha_compra>
+                                    <fecha_entrega>30/06/2020</fecha_entrega>
+                                    <total_factura>33</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CAMISETA ADICOLOR CLASSICS 3 BANDAS</nombre_producto>
+                                            <referencia>IA4849</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    </pedidos>
+                </trimestre_segundo>
+
+                <trimestre_tercero> 
+                    <pedidos>
+                        <pedido id="1650"> 
+                            <cliente>
+                                <nombre>Carlos</nombre>
+                                <apellidos>Mata Fuentes</apellidos>
+                                <telefono>602445514</telefono>
+                                <direccion>
+                                    <calle>Camino de Humanes</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28934</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>carlosmata@gmail.com</correo_electronico>
+                                <fecha_inclusion>23/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1650</num_pedido>
+                                    <fecha_compra>02/07/2020</fecha_compra>
+                                    <fecha_entrega>05/07/2020</fecha_entrega>
+                                    <total_factura>50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN TIRO 23 LEAGUE</nombre_producto>
+                                            <referencia>HS3529</referencia>
+                                            <precio>50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1651"> 
+                            <cliente>
+                                <nombre>Luis</nombre>
+                                <apellidos>Suárez Martínez</apellidos>
+                                <telefono>677884411</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Aranjuez</ciudad>
+                                    <codigo_postal>28300</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>luisu@gmail.com</correo_electronico>
+                                <fecha_inclusion>26/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1651</num_pedido>
+                                    <fecha_compra>06/07/2020</fecha_compra>
+                                    <fecha_entrega>09/07/2020</fecha_entrega>
+                                    <total_factura>220</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PALA DE PÁDEL METALBONE LITE</nombre_producto>
+                                            <referencia>GB7872</referencia>
+                                            <precio>220</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1652"> 
+                            <cliente>
+                                <nombre>Claudia</nombre>
+                                <apellidos>Ramos Ramos</apellidos>
+                                <telefono>633652210</telefono>
+                                <direccion>
+                                    <calle>El Barco</calle>
+                                    <ciudad>León</ciudad>
+                                    <codigo_postal>24001</codigo_postal>
+                                    <provincia>Castilla y León</provincia>
+                                </direccion> 
+                                <correo_electronico>ramosclaudia@gmail.com</correo_electronico>
+                                <fecha_inclusion>15/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1652</num_pedido>
+                                    <fecha_compra>20/07/2020</fecha_compra>
+                                    <fecha_entrega>23/07/2020</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BAÑADOR ORIGINALS MONOGRAM 3 BANDAS</nombre_producto>
+                                            <referencia>HZ4109</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1653"> 
+                            <cliente>
+                                <nombre>Ana</nombre>
+                                <apellidos>López Rodríguez</apellidos>
+                                <telefono>655878955</telefono>
+                                <direccion>
+                                    <calle>Las tablas</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28016</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>analopez@gmail.com</correo_electronico>
+                                <fecha_inclusion>22/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1653</num_pedido>
+                                    <fecha_compra>28/07/2020</fecha_compra>
+                                    <fecha_entrega>30/07/2020</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHANCLA ADILETTE AYOON</nombre_producto>
+                                            <referencia>GX1979</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1654"> 
+                            <cliente>
+                                <nombre></nombre>
+                                <apellidos>Sandra</apellidos>
+                                <telefono>Cañete Martínez</telefono>
+                                <direccion>
+                                    <calle>Del Hueso</calle>
+                                    <ciudad>Ávila</ciudad>
+                                    <codigo_postal>05002</codigo_postal>
+                                    <provincia>Ávila</provincia>
+                                </direccion> 
+                                <correo_electronico>sandracañete@gmail.com</correo_electronico>
+                                <fecha_inclusion>14/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1654</num_pedido>
+                                    <fecha_compra>03/08/2020</fecha_compra>
+                                    <fecha_entrega>06/08/2020</fecha_entrega>
+                                    <total_factura>250</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>TWILL SUIT LONG-SLEEVE TOP</nombre_producto>
+                                            <referencia>II0964</referencia>
+                                            <precio>250</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1655"> 
+                            <cliente>
+                                <nombre>Ana</nombre>
+                                <apellidos>López Rodríguez</apellidos>
+                                <telefono>655878955</telefono>
+                                <direccion>
+                                    <calle>Las tablas</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28016</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>analopez@gmail.com</correo_electronico>
+                                <fecha_inclusion>22/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1655</num_pedido>
+                                    <fecha_compra>18/08/2020</fecha_compra>
+                                    <fecha_entrega>20/08/2020</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHANCLA ADILETTE AYOON</nombre_producto>
+                                            <referencia>GX1979</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1656"> 
+                            <cliente>
+                                <nombre>Claudia</nombre>
+                                <apellidos>Ramos Ramos</apellidos>
+                                <telefono>633652210</telefono>
+                                <direccion>
+                                    <calle>El Barco</calle>
+                                    <ciudad>León</ciudad>
+                                    <codigo_postal>24001</codigo_postal>
+                                    <provincia>Castilla y León</provincia>
+                                </direccion> 
+                                <correo_electronico>ramosclaudia@gmail.com</correo_electronico>
+                                <fecha_inclusion>15/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1656</num_pedido>
+                                    <fecha_compra>22/08/2020</fecha_compra>
+                                    <fecha_entrega>25/08/2020</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BAÑADOR ORIGINALS MONOGRAM 3 BANDAS</nombre_producto>
+                                            <referencia>HZ4109</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1657"> 
+                            <cliente>
+                                <nombre>Luis</nombre>
+                                <apellidos>Suárez Martínez</apellidos>
+                                <telefono>677884411</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Aranjuez</ciudad>
+                                    <codigo_postal>28300</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>luisu@gmail.com</correo_electronico>
+                                <fecha_inclusion>26/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1657</num_pedido>
+                                    <fecha_compra>06/09/2020</fecha_compra>
+                                    <fecha_entrega>09/09/2020</fecha_entrega>
+                                    <total_factura>220</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PALA DE PÁDEL METALBONE LITE</nombre_producto>
+                                            <referencia>GB7872</referencia>
+                                            <precio>220</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1658"> 
+                            <cliente>
+                                <nombre>Carlos</nombre>
+                                <apellidos>Mata Fuentes</apellidos>
+                                <telefono>602445514</telefono>
+                                <direccion>
+                                    <calle>Camino de Humanes</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28934</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>carlosmata@gmail.com</correo_electronico>
+                                <fecha_inclusion>23/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1658</num_pedido>
+                                    <fecha_compra>17/09/2020</fecha_compra>
+                                    <fecha_entrega>20/09/2020</fecha_entrega>
+                                    <total_factura>50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN TIRO 23 LEAGUE</nombre_producto>
+                                            <referencia>HS3529</referencia>
+                                            <precio>50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1659"> 
+                            <cliente>
+                                <nombre>Rodrigo</nombre>
+                                <apellidos>Dorado Rodríguez</apellidos>
+                                <telefono>602445574</telefono>
+                                <direccion>
+                                    <calle>Camino de Leganés</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28934</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>doradorodri@gmail.com</correo_electronico>
+                                <fecha_inclusion>23/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1659</num_pedido>
+                                    <fecha_compra>25/09/2020</fecha_compra>
+                                    <fecha_entrega>28/09/2020</fecha_entrega>
+                                    <total_factura>50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN TIRO 23 LEAGUE</nombre_producto>
+                                            <referencia>HS3529</referencia>
+                                            <precio>50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    </pedidos>
+                </trimestre_tercero>
+
+                <trimestre_cuarto> 
+                    <pedidos>
+                        <pedido id="1660"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1630</num_pedido>
+                                    <fecha_compra>05/10/2020</fecha_compra>
+                                    <fecha_entrega>08/10/2020</fecha_entrega>
+                                    <total_factura>200</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA ULTRABOOST LIGHT</nombre_producto>
+                                            <referencia>HP9841</referencia>
+                                            <precio>200</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1661"> 
+                            <cliente>
+                                <nombre>Carlos</nombre>
+                                <apellidos>Mata Fuentes</apellidos>
+                                <telefono>602445514</telefono>
+                                <direccion>
+                                    <calle>Camino de Humanes</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28934</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>carlosmata@gmail.com</correo_electronico>
+                                <fecha_inclusion>23/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1661</num_pedido>
+                                    <fecha_compra>17/10/2020</fecha_compra>
+                                    <fecha_entrega>20/10/2020</fecha_entrega>
+                                    <total_factura>50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN TIRO 23 LEAGUE</nombre_producto>
+                                            <referencia>HS3529</referencia>
+                                            <precio>50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1662"> 
+                            <cliente>
+                                <nombre>Ana</nombre>
+                                <apellidos>López Rodríguez</apellidos>
+                                <telefono>655878955</telefono>
+                                <direccion>
+                                    <calle>Las tablas</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28016</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>analopez@gmail.com</correo_electronico>
+                                <fecha_inclusion>22/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1662</num_pedido>
+                                    <fecha_compra>18/10/2020</fecha_compra>
+                                    <fecha_entrega>20/10/2020</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHANCLA ADILETTE AYOON</nombre_producto>
+                                            <referencia>GX1979</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1663"> 
+                            <cliente>
+                                <nombre>Jorge</nombre>
+                                <apellidos>Merchán Palacios</apellidos>
+                                <telefono>664120232</telefono>
+                                <direccion>
+                                    <calle>Badajoz</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28935</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>jorgemer@gmail.com</correo_electronico>
+                                <fecha_inclusion>08/05/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1663</num_pedido>
+                                    <fecha_compra>20/10/2020</fecha_compra>
+                                    <fecha_entrega>22/10/2020</fecha_entrega>
+                                    <total_factura>33</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CAMISETA ADICOLOR CLASSICS 3 BANDAS</nombre_producto>
+                                            <referencia>IA4849</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1664"> 
+                            <cliente>
+                                <nombre>Marcos</nombre>
+                                <apellidos>Pedroche de la Vega</apellidos>
+                                <telefono>666748454</telefono>
+                                <direccion>
+                                    <calle>Peonía</calle>
+                                    <ciudad>Fuenlabrada</ciudad>
+                                    <codigo_postal>26453</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>pedrochemarcos@gmail.com</correo_electronico>
+                                <fecha_inclusion>27/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1664</num_pedido>
+                                    <fecha_compra>03/11/2020</fecha_compra>
+                                    <fecha_entrega>05/11/2020</fecha_entrega>
+                                    <total_factura>200</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA ULTRABOOST LIGHT</nombre_producto>
+                                            <referencia>HP9841</referencia>
+                                            <precio>200</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1665"> 
+                            <cliente>
+                                <nombre>Lorena</nombre>
+                                <apellidos>Castillo Martos</apellidos>
+                                <telefono>623232300</telefono>
+                                <direccion>
+                                    <calle>Infantes</calle>
+                                    <ciudad>Alcorcón</ciudad>
+                                    <codigo_postal>28014</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>lorena@castillo.com</correo_electronico>
+                                <fecha_inclusion>02/09/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1665</num_pedido>
+                                    <fecha_compra>15/11/2020</fecha_compra>
+                                    <fecha_entrega>17/11/2020</fecha_entrega>
+                                    <total_factura>75</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA ADICOLOR NEUCLASSICS</nombre_producto>
+                                            <referencia>IB7316</referencia>
+                                            <precio>75</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1666"> 
+                            <cliente>
+                                <nombre>Matilda</nombre>
+                                <apellidos>Suárez Montes</apellidos>
+                                <telefono>689552141</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28936</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>matildasumo@gmail.com</correo_electronico>
+                                <fecha_inclusion>04/09/2017</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1666</num_pedido>
+                                    <fecha_compra>26/11/2020</fecha_compra>
+                                    <fecha_entrega>29/11/2020</fecha_entrega>
+                                    <total_factura>120</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA SDP 2.0 INSULATED</nombre_producto>
+                                            <referencia>HI0938</referencia>
+                                            <precio>120</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+
+
+                        <pedido id="1667"> 
+                            <cliente>
+                                <nombre>Luis</nombre>
+                                <apellidos>Suárez Martínez</apellidos>
+                                <telefono>677884411</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Aranjuez</ciudad>
+                                    <codigo_postal>28300</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>luisu@gmail.com</correo_electronico>
+                                <fecha_inclusion>26/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1667</num_pedido>
+                                    <fecha_compra>06/12/2020</fecha_compra>
+                                    <fecha_entrega>09/12/2020</fecha_entrega>
+                                    <total_factura>220</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PALA DE PÁDEL METALBONE LITE</nombre_producto>
+                                            <referencia>GB7872</referencia>
+                                            <precio>220</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1668"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1668</num_pedido>
+                                    <fecha_compra>15/12/2020</fecha_compra>
+                                    <fecha_entrega>18/12/2020</fecha_entrega>
+                                    <total_factura>200</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA ULTRABOOST LIGHT</nombre_producto>
+                                            <referencia>HP9841</referencia>
+                                            <precio>200</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1669"> 
+                            <cliente>
+                                <nombre>Miriam</nombre>
+                                <apellidos>Sánchez Mata</apellidos>
+                                <telefono>654454545</telefono>
+                                <direccion>
+                                    <calle>del Obispo</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28080</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>miriam@mata.com</correo_electronico>
+                                <fecha_inclusion>02/11/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1669</num_pedido>
+                                    <fecha_compra>23/12/2020</fecha_compra>
+                                    <fecha_entrega>28/12/2020</fecha_entrega>
+                                    <total_factura>65</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>MALLAS 7/8 DAILYRUN</nombre_producto>
+                                            <referencia>HS5440</referencia>
+                                            <precio>65</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    </pedidos>
+                </trimestre_cuarto>
+
+            </trimestres>
+        </anio_2020>
+
+
+        <anio_2021>
+            <trimestres>
+
+                <trimestre_primero>
+                    <pedidos>
+                        <pedido id="1670"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1670</num_pedido>
+                                    <fecha_compra>15/01/2021</fecha_compra>
+                                    <fecha_entrega>18/01/2021</fecha_entrega>
+                                    <total_factura>200</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA ULTRABOOST LIGHT</nombre_producto>
+                                            <referencia>HP9841</referencia>
+                                            <precio>200</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1671"> 
+                            <cliente>
+                                <nombre>Laura</nombre>
+                                <apellidos>Robledo Martín</apellidos>
+                                <telefono>923973818</telefono>
+                                <direccion>
+                                    <calle>Ronda Victoria</calle>
+                                    <ciudad>Zahara de la Sierra</ciudad>
+                                    <codigo_postal>11688</codigo_postal>
+                                    <provincia>Cádiz</provincia>
+                                </direccion> 
+                                <correo_electronico>laura85@robledo.org</correo_electronico>
+                                <fecha_inclusion>22/07/2019</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1671</num_pedido>
+                                    <fecha_compra>15/01/2021</fecha_compra>
+                                    <fecha_entrega>18/01/2021</fecha_entrega>
+                                    <total_factura>320</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA GAZELLE</nombre_producto>
+                                            <referencia>HQ4410</referencia>
+                                            <precio>100</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA ADIDAS BY STELLA MCCARTNEY TRUECASUALS PRINTED</nombre_producto>
+                                            <referencia>HT1102</referencia>
+                                            <precio>220</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1672"> 
+                            <cliente>
+                                <nombre>Matilda</nombre>
+                                <apellidos>Suárez Montes</apellidos>
+                                <telefono>689552141</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28936</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>matildasumo@gmail.com</correo_electronico>
+                                <fecha_inclusion>04/09/2017</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1672</num_pedido>
+                                    <fecha_compra>16/01/2021</fecha_compra>
+                                    <fecha_entrega>19/01/2021</fecha_entrega>
+                                    <total_factura>120</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA SDP 2.0 INSULATED</nombre_producto>
+                                            <referencia>HI0938</referencia>
+                                            <precio>120</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1673"> 
+                            <cliente>
+                                <nombre>Samuel</nombre>
+                                <apellidos>Molina Martínez</apellidos>
+                                <telefono>689556210</telefono>
+                                <direccion>
+                                    <calle>San Juan</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>18050</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>samumolina@gmail.com</correo_electronico>
+                                <fecha_inclusion>14/03/2019</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1673</num_pedido>
+                                    <fecha_compra>17/01/2021</fecha_compra>
+                                    <fecha_entrega>21/01/2021</fecha_entrega>
+                                    <total_factura>32,50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>SUDADERA CUELLO REDONDO ARKD3</nombre_producto>
+                                            <referencia>HD6866</referencia>
+                                            <precio>32,50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1674"> 
+                            <cliente>
+                                <nombre>Sara</nombre>
+                                <apellidos>Betancourt Ruiz</apellidos>
+                                <telefono>640125568</telefono>
+                                <direccion>
+                                    <calle>Almería</calle>
+                                    <ciudad>Arroyomolinos</ciudad>
+                                    <codigo_postal>28939</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>betancourt_sara@gmail.com</correo_electronico>
+                                <fecha_inclusion>15/05/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1674</num_pedido>
+                                    <fecha_compra>25/02/2021</fecha_compra>
+                                    <fecha_entrega>28/02/2021</fecha_entrega>
+                                    <total_factura>150</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>SUDADERA CON CAPUCHA ADICOLOR NEUCLASSICS</nombre_producto>
+                                            <referencia>IB5922</referencia>
+                                            <precio>75</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN ESSENTIALS JOGGER</nombre_producto>
+                                            <referencia>HA3473</referencia>
+                                            <precio>75</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1675"> 
+                            <cliente>
+                                <nombre>Laura</nombre>
+                                <apellidos>Robledo Martín</apellidos>
+                                <telefono>923973818</telefono>
+                                <direccion>
+                                    <calle>Ronda Victoria</calle>
+                                    <ciudad>Zahara de la Sierra</ciudad>
+                                    <codigo_postal>11688</codigo_postal>
+                                    <provincia>Cádiz</provincia>
+                                </direccion> 
+                                <correo_electronico>laura85@robledo.org</correo_electronico>
+                                <fecha_inclusion>22/07/2019</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1675</num_pedido>
+                                    <fecha_compra>01/03/2021</fecha_compra>
+                                    <fecha_entrega>05/03/2021</fecha_entrega>
+                                    <total_factura>110</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>SUJETADOR DEPORTIVO ADIDAS BY STELLA MCCARTNEY TRUEPACE HIGH SUPPORT</nombre_producto>
+                                            <referencia>IA9123</referencia>
+                                            <precio>110</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1676"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1676</num_pedido>
+                                    <fecha_compra>4/03/2021</fecha_compra>
+                                    <fecha_entrega>6/03/2021</fecha_entrega>
+                                    <total_factura>119</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CALCETINES CLÁSICOS MID-CUT</nombre_producto>
+                                            <referencia>FT8529</referencia>
+                                            <precio>13</precio>
+                                            <unidades>2</unidades>
+                                        </producto>
+                                        <producto>
+                                            <nombre_producto>CAMISETA HEAT.RDY HIIT ELEVATED TRAINING</nombre_producto>
+                                            <referencia>HS7457</referencia>
+                                            <precio>60</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                        <producto>
+                                            <nombre_producto>CAMISETA TRAIN ESSENTIALS FEELREADY LOGO TRAINING</nombre_producto>
+                                            <referencia>IB8273</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1677"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1677</num_pedido>
+                                    <fecha_compra>23/03/2021</fecha_compra>
+                                    <fecha_entrega>25/03/2021</fecha_entrega>
+                                    <total_factura>45</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BOLSA DE DEPORTE MEDIANA TIRO LEAGUE</nombre_producto>
+                                            <referencia>IB8650</referencia>
+                                            <precio>45</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1678"> 
+                            <cliente>
+                                <nombre>Matilda</nombre>
+                                <apellidos>Suárez Montes</apellidos>
+                                <telefono>689552141</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28936</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>matildasumo@gmail.com</correo_electronico>
+                                <fecha_inclusion>04/09/2017</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1678</num_pedido>
+                                    <fecha_compra>24/03/2021</fecha_compra>
+                                    <fecha_entrega>27/03/2021</fecha_entrega>
+                                    <total_factura>90</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA PARLEY</nombre_producto>
+                                            <referencia>IC5356</referencia>
+                                            <precio>90</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1679"> 
+                            <cliente>
+                                <nombre>Sara</nombre>
+                                <apellidos>Betancourt Ruiz</apellidos>
+                                <telefono>640125568</telefono>
+                                <direccion>
+                                    <calle>Almería</calle>
+                                    <ciudad>Arroyomolinos</ciudad>
+                                    <codigo_postal>28939</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>betancourt_sara@gmail.com</correo_electronico>
+                                <fecha_inclusion>15/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1679</num_pedido>
+                                    <fecha_compra>28/03/2021</fecha_compra>
+                                    <fecha_entrega>1/04/2021</fecha_entrega>
+                                    <total_factura>75</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA ADICOLOR NEUCLASSICS</nombre_producto>
+                                            <referencia>IB7316</referencia>
+                                            <precio>75</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    </pedidos>
+                </trimestre_primero>
+
+                <trimestre_segundo> 
+                    <pedidos>
+                    
+                        <pedido id="1680"> 
+                            <cliente>
+                                <nombre>Pedro</nombre>
+                                <apellidos>Martín Martín</apellidos>
+                                <telefono>665842511</telefono>
+                                <direccion>
+                                    <calle>Motril</calle>
+                                    <ciudad>Arroyomolinos</ciudad>
+                                    <codigo_postal>28940</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>pedromart@gmail.com</correo_electronico>
+                                <fecha_inclusion>05/06/2019</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1680</num_pedido>
+                                    <fecha_compra>02/04/2021</fecha_compra>
+                                    <fecha_entrega>05/04/2021</fecha_entrega>
+                                    <total_factura>80</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA POSTMOVE</nombre_producto>
+                                            <referencia>H00460</referencia>
+                                            <precio>80</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1681"> 
+                            <cliente>
+                                <nombre>Martina</nombre>
+                                <apellidos>Lucas Luna</apellidos>
+                                <telefono>654221344</telefono>
+                                <direccion>
+                                    <calle>Las matas</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28935</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>lucasluna@gmail.com</correo_electronico>
+                                <fecha_inclusion>07/08/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1681</num_pedido>
+                                    <fecha_compra>05/04/2021</fecha_compra>
+                                    <fecha_entrega>09/04/2021</fecha_entrega>
+                                    <total_factura>110</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BOLSO TOTE ADIDAS BY STELLA MCCARTNEY</nombre_producto>
+                                            <referencia>HY4086</referencia>
+                                            <precio>110</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1682"> 
+                            <cliente>
+                                <nombre>Roberto</nombre>
+                                <apellidos>Robles García</apellidos>
+                                <telefono>632551200</telefono>
+                                <direccion>
+                                    <calle>Lorca</calle>
+                                    <ciudad>Albacete</ciudad>
+                                    <codigo_postal>02005</codigo_postal>
+                                    <provincia>Castilla la Mancha</provincia>
+                                </direccion> 
+                                <correo_electronico>roro@garcia.com</correo_electronico>
+                                <fecha_inclusion>25/03/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1682</num_pedido>
+                                    <fecha_compra>07/04/2021</fecha_compra>
+                                    <fecha_entrega>09/04/2021</fecha_entrega>
+                                    <total_factura>33</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CAMISETA ADICOLOR CLASSICS 3 BANDAS</nombre_producto>
+                                            <referencia>IA4849</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1683"> 
+                            <cliente>
+                                <nombre>Julia</nombre>
+                                <apellidos>Puentes Mateos</apellidos>
+                                <telefono>633021545</telefono>
+                                <direccion>
+                                    <calle>Ibiza</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28050</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>puentes@mateos.com</correo_electronico>
+                                <fecha_inclusion>12/04/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1683</num_pedido>
+                                    <fecha_compra>08/05/2021</fecha_compra>
+                                    <fecha_entrega>11/05/2021</fecha_entrega>
+                                    <total_factura>350</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>FALDA REFINED WOOL Y-3</nombre_producto>
+                                            <referencia>H63041</referencia>
+                                            <precio>350</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    
+                        <pedido id="1684"> 
+                            <cliente>
+                                <nombre>Jaime</nombre>
+                                <apellidos>Salazar Perez</apellidos>
+                                <telefono>655784422</telefono>
+                                <direccion>
+                                    <calle>Torremolinos</calle>
+                                    <ciudad>Arroyomolinos</ciudad>
+                                    <codigo_postal>28938</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>Jaimesalazar@gmail.com</correo_electronico>
+                                <fecha_inclusion>14/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1684</num_pedido>
+                                    <fecha_compra>22/05/2021</fecha_compra>
+                                    <fecha_entrega>24/05/2021</fecha_entrega>
+                                    <total_factura>70</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>SUDADERA CON CAPUCHA ADICOLOR NEUCLASSICS</nombre_producto>
+                                            <referencia>HS1519</referencia>
+                                            <precio>70</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1685"> 
+                            <cliente>
+                                <nombre>Roberto</nombre>
+                                <apellidos>Robles García</apellidos>
+                                <telefono>632551200</telefono>
+                                <direccion>
+                                    <calle>Lorca</calle>
+                                    <ciudad>Albacete</ciudad>
+                                    <codigo_postal>02005</codigo_postal>
+                                    <provincia>Castilla la Mancha</provincia>
+                                </direccion> 
+                                <correo_electronico>roro@garcia.com</correo_electronico>
+                                <fecha_inclusion>25/03/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1685</num_pedido>
+                                    <fecha_compra>28/05/2021</fecha_compra>
+                                    <fecha_entrega>30/05/2021</fecha_entrega>
+                                    <total_factura>33</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CAMISETA ADICOLOR CLASSICS 3 BANDAS</nombre_producto>
+                                            <referencia>IA4849</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1686"> 
+                            <cliente>
+                                <nombre>Martina</nombre>
+                                <apellidos>Lucas Luna</apellidos>
+                                <telefono>654221344</telefono>
+                                <direccion>
+                                    <calle>Las Matas</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28935</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>lucasluna@gmail.com</correo_electronico>
+                                <fecha_inclusion>07/05/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1686</num_pedido>
+                                    <fecha_compra>01/06/2021</fecha_compra>
+                                    <fecha_entrega>03/06/2021</fecha_entrega>
+                                    <total_factura>110</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BOLSO TOTE ADIDAS BY STELLA MCCARTNEY</nombre_producto>
+                                            <referencia>HY4086</referencia>
+                                            <precio>110</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1687"> 
+                            <cliente>
+                                <nombre>Martina</nombre>
+                                <apellidos>Lucas Luna</apellidos>
+                                <telefono>654221344</telefono>
+                                <direccion>
+                                    <calle>Las Matas</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28935</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>lucasluna@gmail.com</correo_electronico>
+                                <fecha_inclusion>07/05/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1687</num_pedido>
+                                    <fecha_compra>05/06/2021</fecha_compra>
+                                    <fecha_entrega>09/06/2021</fecha_entrega>
+                                    <total_factura>110</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BOLSO TOTE ADIDAS BY STELLA MCCARTNEY</nombre_producto>
+                                            <referencia>HY4086</referencia>
+                                            <precio>110</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1688"> 
+                            <cliente>
+                                <nombre>Julia</nombre>
+                                <apellidos>Puentes Mateos</apellidos>
+                                <telefono>633021545</telefono>
+                                <direccion>
+                                    <calle>Ibiza</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28050</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>puentes@mateos.com</correo_electronico>
+                                <fecha_inclusion>12/04/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1688</num_pedido>
+                                    <fecha_compra>08/06/2021</fecha_compra>
+                                    <fecha_entrega>11/06/2021</fecha_entrega>
+                                    <total_factura>350</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>FALDA REFINED WOOL Y-3</nombre_producto>
+                                            <referencia>H63041</referencia>
+                                            <precio>350</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1689"> 
+                            <cliente>
+                                <nombre>Roberto</nombre>
+                                <apellidos>Robles García</apellidos>
+                                <telefono>632551200</telefono>
+                                <direccion>
+                                    <calle>Lorca</calle>
+                                    <ciudad>Albacete</ciudad>
+                                    <codigo_postal>02005</codigo_postal>
+                                    <provincia>Castilla la Mancha</provincia>
+                                </direccion> 
+                                <correo_electronico>roro@garcia.com</correo_electronico>
+                                <fecha_inclusion>25/03/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1689</num_pedido>
+                                    <fecha_compra>28/06/2021</fecha_compra>
+                                    <fecha_entrega>30/06/2021</fecha_entrega>
+                                    <total_factura>33</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CAMISETA ADICOLOR CLASSICS 3 BANDAS</nombre_producto>
+                                            <referencia>IA4849</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    </pedidos>
+                </trimestre_segundo>
+
+                <trimestre_tercero> 
+                    <pedidos>
+                        <pedido id="1690"> 
+                            <cliente>
+                                <nombre>Carlos</nombre>
+                                <apellidos>Mata Fuentes</apellidos>
+                                <telefono>602445514</telefono>
+                                <direccion>
+                                    <calle>Camino de Humanes</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28934</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>carlosmata@gmail.com</correo_electronico>
+                                <fecha_inclusion>23/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1690</num_pedido>
+                                    <fecha_compra>02/07/2021</fecha_compra>
+                                    <fecha_entrega>05/07/2021</fecha_entrega>
+                                    <total_factura>50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN TIRO 23 LEAGUE</nombre_producto>
+                                            <referencia>HS3529</referencia>
+                                            <precio>50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1691"> 
+                            <cliente>
+                                <nombre>Luis</nombre>
+                                <apellidos>Suárez Martínez</apellidos>
+                                <telefono>677884411</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Aranjuez</ciudad>
+                                    <codigo_postal>28300</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>luisu@gmail.com</correo_electronico>
+                                <fecha_inclusion>26/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1691</num_pedido>
+                                    <fecha_compra>06/07/2021</fecha_compra>
+                                    <fecha_entrega>09/07/2021</fecha_entrega>
+                                    <total_factura>220</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PALA DE PÁDEL METALBONE LITE</nombre_producto>
+                                            <referencia>GB7872</referencia>
+                                            <precio>220</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1692"> 
+                            <cliente>
+                                <nombre>Claudia</nombre>
+                                <apellidos>Ramos Ramos</apellidos>
+                                <telefono>633652210</telefono>
+                                <direccion>
+                                    <calle>El Barco</calle>
+                                    <ciudad>León</ciudad>
+                                    <codigo_postal>24001</codigo_postal>
+                                    <provincia>Castilla y León</provincia>
+                                </direccion> 
+                                <correo_electronico>ramosclaudia@gmail.com</correo_electronico>
+                                <fecha_inclusion>15/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1692</num_pedido>
+                                    <fecha_compra>20/07/2021</fecha_compra>
+                                    <fecha_entrega>23/07/2021</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BAÑADOR ORIGINALS MONOGRAM 3 BANDAS</nombre_producto>
+                                            <referencia>HZ4109</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1693"> 
+                            <cliente>
+                                <nombre>Ana</nombre>
+                                <apellidos>López Rodríguez</apellidos>
+                                <telefono>655878955</telefono>
+                                <direccion>
+                                    <calle>Las tablas</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28016</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>analopez@gmail.com</correo_electronico>
+                                <fecha_inclusion>22/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1693</num_pedido>
+                                    <fecha_compra>28/07/2021</fecha_compra>
+                                    <fecha_entrega>30/07/2021</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHANCLA ADILETTE AYOON</nombre_producto>
+                                            <referencia>GX1979</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1694"> 
+                            <cliente>
+                                <nombre></nombre>
+                                <apellidos>Sandra</apellidos>
+                                <telefono>Cañete Martínez</telefono>
+                                <direccion>
+                                    <calle>Del Hueso</calle>
+                                    <ciudad>Ávila</ciudad>
+                                    <codigo_postal>05002</codigo_postal>
+                                    <provincia>Ávila</provincia>
+                                </direccion> 
+                                <correo_electronico>sandracañete@gmail.com</correo_electronico>
+                                <fecha_inclusion>14/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1694</num_pedido>
+                                    <fecha_compra>03/08/2021</fecha_compra>
+                                    <fecha_entrega>06/08/2021</fecha_entrega>
+                                    <total_factura>250</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>TWILL SUIT LONG-SLEEVE TOP</nombre_producto>
+                                            <referencia>II0964</referencia>
+                                            <precio>250</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1695"> 
+                            <cliente>
+                                <nombre>Ana</nombre>
+                                <apellidos>López Rodríguez</apellidos>
+                                <telefono>655878955</telefono>
+                                <direccion>
+                                    <calle>Las tablas</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28016</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>analopez@gmail.com</correo_electronico>
+                                <fecha_inclusion>22/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1695</num_pedido>
+                                    <fecha_compra>18/08/2021</fecha_compra>
+                                    <fecha_entrega>20/08/2021</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHANCLA ADILETTE AYOON</nombre_producto>
+                                            <referencia>GX1979</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1696"> 
+                            <cliente>
+                                <nombre>Claudia</nombre>
+                                <apellidos>Ramos Ramos</apellidos>
+                                <telefono>633652210</telefono>
+                                <direccion>
+                                    <calle>El Barco</calle>
+                                    <ciudad>León</ciudad>
+                                    <codigo_postal>24001</codigo_postal>
+                                    <provincia>Castilla y León</provincia>
+                                </direccion> 
+                                <correo_electronico>ramosclaudia@gmail.com</correo_electronico>
+                                <fecha_inclusion>15/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1696</num_pedido>
+                                    <fecha_compra>22/08/2021</fecha_compra>
+                                    <fecha_entrega>25/08/2021</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>BAÑADOR ORIGINALS MONOGRAM 3 BANDAS</nombre_producto>
+                                            <referencia>HZ4109</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1697"> 
+                            <cliente>
+                                <nombre>Luis</nombre>
+                                <apellidos>Suárez Martínez</apellidos>
+                                <telefono>677884411</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Aranjuez</ciudad>
+                                    <codigo_postal>28300</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>luisu@gmail.com</correo_electronico>
+                                <fecha_inclusion>26/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1697</num_pedido>
+                                    <fecha_compra>06/09/2021</fecha_compra>
+                                    <fecha_entrega>09/09/2021</fecha_entrega>
+                                    <total_factura>220</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PALA DE PÁDEL METALBONE LITE</nombre_producto>
+                                            <referencia>GB7872</referencia>
+                                            <precio>220</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1698"> 
+                            <cliente>
+                                <nombre>Carlos</nombre>
+                                <apellidos>Mata Fuentes</apellidos>
+                                <telefono>602445514</telefono>
+                                <direccion>
+                                    <calle>Camino de Humanes</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28934</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>carlosmata@gmail.com</correo_electronico>
+                                <fecha_inclusion>23/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1698</num_pedido>
+                                    <fecha_compra>17/09/2021</fecha_compra>
+                                    <fecha_entrega>20/09/2021</fecha_entrega>
+                                    <total_factura>50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN TIRO 23 LEAGUE</nombre_producto>
+                                            <referencia>HS3529</referencia>
+                                            <precio>50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1699"> 
+                            <cliente>
+                                <nombre>Rodrigo</nombre>
+                                <apellidos>Dorado Rodríguez</apellidos>
+                                <telefono>602445574</telefono>
+                                <direccion>
+                                    <calle>Camino de Leganés</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28934</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>doradorodri@gmail.com</correo_electronico>
+                                <fecha_inclusion>23/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1699</num_pedido>
+                                    <fecha_compra>25/09/2021</fecha_compra>
+                                    <fecha_entrega>28/09/2021</fecha_entrega>
+                                    <total_factura>50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN TIRO 23 LEAGUE</nombre_producto>
+                                            <referencia>HS3529</referencia>
+                                            <precio>50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    </pedidos>
+                </trimestre_tercero>
+
+                <trimestre_cuarto> 
+                    <pedidos>
+                        <pedido id="1700"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1700</num_pedido>
+                                    <fecha_compra>05/10/2021</fecha_compra>
+                                    <fecha_entrega>08/10/2021</fecha_entrega>
+                                    <total_factura>200</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA ULTRABOOST LIGHT</nombre_producto>
+                                            <referencia>HP9841</referencia>
+                                            <precio>200</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1701"> 
+                            <cliente>
+                                <nombre>Carlos</nombre>
+                                <apellidos>Mata Fuentes</apellidos>
+                                <telefono>602445514</telefono>
+                                <direccion>
+                                    <calle>Camino de Humanes</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28934</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>carlosmata@gmail.com</correo_electronico>
+                                <fecha_inclusion>23/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1701</num_pedido>
+                                    <fecha_compra>17/10/2021</fecha_compra>
+                                    <fecha_entrega>20/10/2021</fecha_entrega>
+                                    <total_factura>50</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PANTALÓN TIRO 23 LEAGUE</nombre_producto>
+                                            <referencia>HS3529</referencia>
+                                            <precio>50</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1702"> 
+                            <cliente>
+                                <nombre>Ana</nombre>
+                                <apellidos>López Rodríguez</apellidos>
+                                <telefono>655878955</telefono>
+                                <direccion>
+                                    <calle>Las tablas</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28016</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>analopez@gmail.com</correo_electronico>
+                                <fecha_inclusion>22/06/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1702</num_pedido>
+                                    <fecha_compra>18/10/2021</fecha_compra>
+                                    <fecha_entrega>20/10/2021</fecha_entrega>
+                                    <total_factura>55</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHANCLA ADILETTE AYOON</nombre_producto>
+                                            <referencia>GX1979</referencia>
+                                            <precio>55</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1703"> 
+                            <cliente>
+                                <nombre>Jorge</nombre>
+                                <apellidos>Merchán Palacios</apellidos>
+                                <telefono>664120232</telefono>
+                                <direccion>
+                                    <calle>Badajoz</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28935</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>jorgemer@gmail.com</correo_electronico>
+                                <fecha_inclusion>08/05/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1703</num_pedido>
+                                    <fecha_compra>20/10/2021</fecha_compra>
+                                    <fecha_entrega>22/10/2021</fecha_entrega>
+                                    <total_factura>33</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CAMISETA ADICOLOR CLASSICS 3 BANDAS</nombre_producto>
+                                            <referencia>IA4849</referencia>
+                                            <precio>33</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1704"> 
+                            <cliente>
+                                <nombre>Marcos</nombre>
+                                <apellidos>Pedroche de la Vega</apellidos>
+                                <telefono>666748454</telefono>
+                                <direccion>
+                                    <calle>Peonía</calle>
+                                    <ciudad>Fuenlabrada</ciudad>
+                                    <codigo_postal>26453</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>pedrochemarcos@gmail.com</correo_electronico>
+                                <fecha_inclusion>27/07/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1704</num_pedido>
+                                    <fecha_compra>03/11/2021</fecha_compra>
+                                    <fecha_entrega>05/11/2021</fecha_entrega>
+                                    <total_factura>200</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA ULTRABOOST LIGHT</nombre_producto>
+                                            <referencia>HP9841</referencia>
+                                            <precio>200</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1705"> 
+                            <cliente>
+                                <nombre>Lorena</nombre>
+                                <apellidos>Castillo Martos</apellidos>
+                                <telefono>623232300</telefono>
+                                <direccion>
+                                    <calle>Infantes</calle>
+                                    <ciudad>Alcorcón</ciudad>
+                                    <codigo_postal>28014</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>lorena@castillo.com</correo_electronico>
+                                <fecha_inclusion>02/09/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1705</num_pedido>
+                                    <fecha_compra>15/11/2021</fecha_compra>
+                                    <fecha_entrega>17/11/2021</fecha_entrega>
+                                    <total_factura>75</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA ADICOLOR NEUCLASSICS</nombre_producto>
+                                            <referencia>IB7316</referencia>
+                                            <precio>75</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1706"> 
+                            <cliente>
+                                <nombre>Matilda</nombre>
+                                <apellidos>Suárez Montes</apellidos>
+                                <telefono>689552141</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Móstoles</ciudad>
+                                    <codigo_postal>28936</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>matildasumo@gmail.com</correo_electronico>
+                                <fecha_inclusion>04/09/2017</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1706</num_pedido>
+                                    <fecha_compra>26/11/2021</fecha_compra>
+                                    <fecha_entrega>29/11/2021</fecha_entrega>
+                                    <total_factura>120</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>CHAQUETA SDP 2.0 INSULATED</nombre_producto>
+                                            <referencia>HI0938</referencia>
+                                            <precio>120</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+
+
+                        <pedido id="1707"> 
+                            <cliente>
+                                <nombre>Luis</nombre>
+                                <apellidos>Suárez Martínez</apellidos>
+                                <telefono>677884411</telefono>
+                                <direccion>
+                                    <calle>Barcelona</calle>
+                                    <ciudad>Aranjuez</ciudad>
+                                    <codigo_postal>28300</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>luisu@gmail.com</correo_electronico>
+                                <fecha_inclusion>26/02/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1707</num_pedido>
+                                    <fecha_compra>06/12/2021</fecha_compra>
+                                    <fecha_entrega>09/12/2021</fecha_entrega>
+                                    <total_factura>220</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>PALA DE PÁDEL METALBONE LITE</nombre_producto>
+                                            <referencia>GB7872</referencia>
+                                            <precio>220</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1708"> 
+                            <cliente>
+                                <nombre>Juan</nombre>
+                                <apellidos>Martínez Conde</apellidos>
+                                <telefono>659887412</telefono>
+                                <direccion>
+                                    <calle>Ruela Jimena</calle>
+                                    <ciudad>El Lebrón</ciudad>
+                                    <codigo_postal>39357</codigo_postal>
+                                    <provincia>Lugo</provincia>
+                                </direccion> 
+                                <correo_electronico>martinez.juan@conde.es</correo_electronico>
+                                <fecha_inclusion>14/03/2018</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1708</num_pedido>
+                                    <fecha_compra>15/12/2021</fecha_compra>
+                                    <fecha_entrega>18/12/2021</fecha_entrega>
+                                    <total_factura>200</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>ZAPATILLA ULTRABOOST LIGHT</nombre_producto>
+                                            <referencia>HP9841</referencia>
+                                            <precio>200</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                        <pedido id="1709"> 
+                            <cliente>
+                                <nombre>Miriam</nombre>
+                                <apellidos>Sánchez Mata</apellidos>
+                                <telefono>654454545</telefono>
+                                <direccion>
+                                    <calle>del Obispo</calle>
+                                    <ciudad>Madrid</ciudad>
+                                    <codigo_postal>28080</codigo_postal>
+                                    <provincia>Madrid</provincia>
+                                </direccion> 
+                                <correo_electronico>miriam@mata.com</correo_electronico>
+                                <fecha_inclusion>02/11/2020</fecha_inclusion>
+                            </cliente>
+                            <info_pedido>
+                                    <num_pedido>1709</num_pedido>
+                                    <fecha_compra>23/12/2021</fecha_compra>
+                                    <fecha_entrega>28/12/2021</fecha_entrega>
+                                    <total_factura>65</total_factura>
+                                    <productos>
+                                        <producto>
+                                            <nombre_producto>MALLAS 7/8 DAILYRUN</nombre_producto>
+                                            <referencia>HS5440</referencia>
+                                            <precio>65</precio>
+                                            <unidades>1</unidades>
+                                        </producto>
+                                    </productos>
+                            </info_pedido>
+                        </pedido>
+                    </pedidos>
+                </trimestre_cuarto>
+            </trimestres>
+        </anio_2021>
+    </anios>
+</facturacion>

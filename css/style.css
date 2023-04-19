@@ -1,0 +1,23 @@
+
+
+#titulo {
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 600;
+}
+
+
+#table {
+    width: 80%;
+    background-color: rgb(156, 159, 159);
+}
+
+#campos {
+    background-color: rgb(208, 225, 248);
+}
+
+td:hover {
+    background-color: rgb(134, 169, 218);
+}
+
+
+
